@@ -1,0 +1,6 @@
+{
+  "name": "FollowUp AI",
+  "description": "Patient reminder and care operations learning lab",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

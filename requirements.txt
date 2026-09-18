@@ -1,2 +1,0 @@
-groq>=0.11.0
-Tavily-python>=0.5.0
